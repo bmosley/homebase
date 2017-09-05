@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "homebridge-gpio-wpi2",
+        "scope": null,
+        "escapedName": "homebridge-gpio-wpi2",
+        "name": "homebridge-gpio-wpi2",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/pi/.homebridge"
+    ]
+  ],
+  "_from": "homebridge-gpio-wpi2@latest",
+  "_id": "homebridge-gpio-wpi2@0.2.0",
+  "_inCache": true,
+  "_location": "/homebridge-gpio-wpi2",
+  "_nodeVersion": "4.4.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/homebridge-gpio-wpi2-0.2.0.tgz_1487956002782_0.654252395266667"
+  },
+  "_npmUser": {
+    "name": "rsg98",
+    "email": "richard.grime@gmail.com"
+  },
+  "_npmVersion": "2.15.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "homebridge-gpio-wpi2",
+    "scope": null,
+    "escapedName": "homebridge-gpio-wpi2",
+    "name": "homebridge-gpio-wpi2",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-gpio-wpi2/-/homebridge-gpio-wpi2-0.2.0.tgz",
+  "_shasum": "8e9841dad70258bce48febff3ed7321f50656a55",
+  "_shrinkwrap": null,
+  "_spec": "homebridge-gpio-wpi2",
+  "_where": "/home/pi/.homebridge",
+  "bugs": {
+    "url": "https://github.com/rsg98/homebridge-gpio-wpi2/issues"
+  },
+  "dependencies": {
+    "epoll": "^0.1.21",
+    "node-wiring-pi": "^0.0.3",
+    "sleep": "^5.1.0"
+  },
+  "description": "Raspberry Pi GPIO plugin for Homebridge (Wiring-pi backend): https://github.com/nfarina/homebridge",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8e9841dad70258bce48febff3ed7321f50656a55",
+    "tarball": "https://registry.npmjs.org/homebridge-gpio-wpi2/-/homebridge-gpio-wpi2-0.2.0.tgz"
+  },
+  "engines": {
+    "homebridge": ">=0.4.6",
+    "node": ">=6.8.1"
+  },
+  "gitHead": "2ae013618cb0283308e0e7990c1fce0fd9f048ec",
+  "homepage": "https://github.com/rsg98/homebridge-gpio-wpi2#readme",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "rsg98",
+      "email": "richard.grime@gmail.com"
+    }
+  ],
+  "name": "homebridge-gpio-wpi2",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rsg98/homebridge-gpio-wpi2.git"
+  },
+  "scripts": {},
+  "version": "0.2.0"
+}
